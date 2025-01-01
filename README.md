@@ -1,4 +1,5 @@
-The project use in:
+<pre>
+    The project use in:
     -jdbc in mysql
     -jsp servlet
     -core java
@@ -31,3 +32,4 @@ Datebase Information:
     -Employee table create in store Employee Detail
     -Department table create in store Department Detail
     -login table create in store login information
+</pre>
